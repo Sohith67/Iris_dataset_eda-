@@ -40,21 +40,16 @@ Hover for exact values.
 
 Saved as interactive_scatter_matrix.html.
 
-⚙️ How to Run
+⚙️ How to Run?
 Clone the repo or download the files.
 
 Make sure the following Python libraries are installed:
 
-bash
-Copy
-Edit
-pip install pandas seaborn matplotlib plotly scikit-learn
-Run the script:
 
-bash
-Copy
-Edit
-python iris_eda..ipynb
+pip install pandas seaborn matplotlib plotly scikit-learn
+
+Run the script:python iris_eda..ipynb
+
 Open interactive_scatter_matrix.html in a browser to explore the interactive plot.
 
 📚 Dataset Info
